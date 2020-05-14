@@ -1,0 +1,9 @@
+.book-library {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  height: 95vh;
+  border: 3px solid rgb(0, 162, 255);
+  overflow: scroll;
+  box-shadow: saturation($color: #000000);
+}
